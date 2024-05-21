@@ -10,6 +10,6 @@ E cada objeto tem métodos e atributos.
 
  #criando uma lista 
 lista=[100,-2,12,65,0]
- 
+  
 #verificar métodos e atributos .
 lista
