@@ -1,3 +1,0 @@
-'''
-manipulação de arquivos
-'''
